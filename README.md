@@ -14,19 +14,6 @@ A simple React application that fetches random quotes from an API and allows use
 - **Frontend**: React, CSS, HTML  
 - **Tools**: Vite, ES7+ Snippets, Thunder Client  
 
-## 📂 Project Structure  
-```bash  
-├── public  
-├── src  
-│   ├── components  
-│   │   ├── QuoteDisplay.jsx  
-│   │   ├── Favorites.jsx  
-│   │   └── Button.jsx  
-│   ├── App.jsx  
-│   ├── index.css  
-│   └── index.js  
-└── package.json
-
 
  
 ## Installation
