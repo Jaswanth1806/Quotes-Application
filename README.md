@@ -13,8 +13,6 @@ A simple React application that fetches random quotes from an API and allows use
 ## 💻 Tech Stack  
 - **Frontend**: React, CSS, HTML  
 - **Tools**: Vite, ES7+ Snippets, Thunder Client  
-
-
  
 ## Installation
 
@@ -67,4 +65,17 @@ Contributions are welcome!
 ### **How to Use:**  
 - Replace placeholders like `username`, `path/to/screenshots`, and contact details with your actual information.  
 - Add a demo link or update with your GitHub Pages/Netlify/Heroku link.
+
+## 📂 Project Structure  
+```bash  
+├── public  
+├── src  
+│   ├── components  
+│   │   ├── QuoteDisplay.jsx  
+│   │   ├── Favorites.jsx  
+│   │   └── Button.jsx  
+│   ├── App.jsx  
+│   ├── index.css  
+│   └── index.js  
+└── package.json  
 
