@@ -25,7 +25,10 @@ A simple React application that fetches random quotes from an API and allows use
 │   ├── App.jsx  
 │   ├── index.css  
 │   └── index.js  
-└── package.json  
+└── package.json
+
+
+ 
 ## Installation
 
 1. Clone the repository:
